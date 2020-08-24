@@ -1,0 +1,337 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/xe47yzrx8dtzjrqy9vqj"
+#EXTINF:-1 tvg-chno="1" tvg-id="XHDF(AztecaUno).mx" tvg-name="AZTECA UNO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s24519_dark_360w_270h.png" group-title="TV Abierta",AZTECA UNO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=27&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16461_dark_360w_270h.png" group-title="TV Abierta",LAS ESTRELLAS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=17&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta",IMAGEN TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2298&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="ForoTV.mx" tvg-name="FORO TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16462_dark_360w_270h.png" group-title="TV Abierta",FORO TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=19&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16463_dark_360w_270h.png" group-title="TV Abierta",CANAL 5
+http://roedor.xyz/SrRegio-Ag/tp.php?c=20&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="MultimediosPlus.mx" tvg-name="MULTIMEDIOS CDMX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s99620_dark_360w_270h.png" group-title="TV Abierta",MULTIMEDIOS CDMX
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1253&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="XHIMT(Azteca7).mx" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16464_dark_360w_270h.png" group-title="TV Abierta",AZTECA 7
+http://roedor.xyz/SrRegio-Ag/tp.php?c=21&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="XHCPA08.mx" tvg-name="CANAL 8" tvg-logo="" group-title="TV Abierta",CANAL 8
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2307&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="CanalNu9ve.mx" tvg-name="NU9VE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16466_dark_360w_270h.png" group-title="TV Abierta",NU9VE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=24&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="Teleformula.mx" tvg-name="TELEFORMULA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s34344_dark_360w_270h.png" group-title="TV Abierta",TELEFORMULA
+http://roedor.xyz/SrRegio-Ag/tp.php?c=32&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="Once.mx" tvg-name="ONCE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s36139_dark_360w_270h.png" group-title="TV Abierta",ONCE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=25&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="Corazon.mx" tvg-name="AZ CORAZON" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61404_dark_360w_270h.png" group-title="TV Abierta",AZ CORAZON
+http://roedor.xyz/SrRegio-Ag/tp.php?c=70&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="Clic.mx" tvg-name="AZ CLIC HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s92197_dark_360w_270h.png" group-title="TV Abierta",AZ CLIC HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=11&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="ExcelsiorTelevision.mx" tvg-name="EXCELSIOR TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82353_dark_360w_270h.png" group-title="TV Abierta",EXCELSIOR TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1449&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="TVMexiquense.mx" tvg-name="MEXIQUENSE TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s28440_dark_360w_270h.png" group-title="TV Abierta",MEXIQUENSE TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=44&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="CongresoNacionalTV.mx" tvg-name="CANAL DEL CONGRESO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s20548_dark_360w_270h.png" group-title="TV Abierta",CANAL DEL CONGRESO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2331&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="APRENDETV.mx" tvg-name="APRENDE TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s45710_dark_360w_270h.png" group-title="TV Abierta",APRENDE TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=401&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="AMAS.mx" tvg-name="A+" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104892_dark_360w_270h.png" group-title="TV Abierta",A+
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2316&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s15213_dark_360w_270h.png" group-title="TV Abierta",MVS TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2149&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="adn40.mx" tvg-name="ADN40" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s15384_dark_360w_270h.png" group-title="TV Abierta",ADN40
+http://roedor.xyz/SrRegio-Ag/tp.php?c=40&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="XHDF(AztecaUno).mx" tvg-name="AZTECA UNO HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s24519_dark_360w_270h.png" group-title="TV Abierta",AZTECA UNO HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=7&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="102" tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16461_dark_360w_270h.png" group-title="TV Abierta",LAS ESTRELLAS HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1784&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta",IMAGEN TV HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2606&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="ForoTV.mx" tvg-name="FOROTV HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16462_dark_360w_270h.png" group-title="TV Abierta",FOROTV HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=4&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="Canal5.mx" tvg-name="CANAL 5 HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16463_dark_360w_270h.png" group-title="TV Abierta",CANAL 5 HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s50500_dark_360w_270h.png" group-title="TV Abierta",MULTIMEDIOS HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2882&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="107" tvg-id="XHIMT(Azteca7).mx" tvg-name="AZTECA 7 HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16464_dark_360w_270h.png" group-title="TV Abierta",AZTECA 7 HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=317&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="CanalNu9ve.mx" tvg-name="NU9VE HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16466_dark_360w_270h.png" group-title="TV Abierta",NU9VE HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1783&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="Once.mx" tvg-name="ONCE HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s36139_dark_360w_270h.png" group-title="TV Abierta",ONCE HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1942&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="140" tvg-id="adn40.mx" tvg-name="ADN 40 HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s15384_dark_360w_270h.png" group-title="TV Abierta",ADN 40 HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=184&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18955_dark_360w_270h.png" group-title="Entretenimiento",A&E
+http://roedor.xyz/SrRegio-Ag/tp.php?c=62&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72534_dark_360w_270h.png" group-title="Entretenimiento",AXN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=64&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-id="Mundo.mx" tvg-name="AZ MUNDO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79968_dark_360w_270h.png" group-title="Entretenimiento",AZ MUNDO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=84&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74528_dark_360w_270h.png" group-title="Entretenimiento",COMEDY CENTRAL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=340&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74528_dark_360w_270h.png" group-title="Entretenimiento",COMEDY CENTRAL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=341&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s55980_dark_360w_270h.png" group-title="Entretenimiento",DISTRITO COMEDIA
+http://roedor.xyz/SrRegio-Ag/tp.php?c=78&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s30259_dark_360w_270h.png" group-title="Entretenimiento",E!
+http://roedor.xyz/SrRegio-Ag/tp.php?c=55&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-id="Fox.mx" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png" group-title="Entretenimiento",FOX
+http://roedor.xyz/SrRegio-Ag/tp.php?c=46&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-id="Fox.mx" tvg-name="FOX HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png" group-title="Entretenimiento",FOX HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=201&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="FoxLife.mx" tvg-name="FOX LIFE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49263_dark_360w_270h.png" group-title="Entretenimiento",FOX LIFE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=77&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="211" tvg-id="FoxPremiumSeries(Este).mx" tvg-name="FOX SERIES" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60542_dark_360w_270h.png" group-title="Entretenimiento",FOX SERIES
+http://roedor.xyz/SrRegio-Ag/tp.php?c=139&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="212" tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s46442_dark_360w_270h.png" group-title="Entretenimiento",FX
+http://roedor.xyz/SrRegio-Ag/tp.php?c=60&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="213" tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s46442_dark_360w_270h.png" group-title="Entretenimiento",FX HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=209&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="214" tvg-id="Glitz.mx" tvg-name="GLITZ" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61514_dark_360w_270h.png" group-title="Entretenimiento",GLITZ
+http://roedor.xyz/SrRegio-Ag/tp.php?c=76&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="215" tvg-id="ElGourmet.mx" tvg-name="GOURMET" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s45910_dark_360w_270h.png" group-title="Entretenimiento",GOURMET
+http://roedor.xyz/SrRegio-Ag/tp.php?c=74&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="216" tvg-id="HOLATV.mx" tvg-name="HOLA TV HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82970_dark_360w_270h.png" group-title="Entretenimiento",HOLA TV HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=219&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="217" tvg-id="MasChic.mx" tvg-name="MAS CHIC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s34412_dark_360w_270h.png" group-title="Entretenimiento",MAS CHIC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1842&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="218" tvg-id="CanalSony.mx" tvg-name="SONY" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s19385_dark_360w_270h.png" group-title="Entretenimiento",SONY
+http://roedor.xyz/SrRegio-Ag/tp.php?c=48&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="219" tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s56727_dark_360w_270h.png" group-title="Entretenimiento",SYFY
+http://roedor.xyz/SrRegio-Ag/tp.php?c=59&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="220" tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s75073_dark_360w_270h.png" group-title="Entretenimiento",TBS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=81&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="221" tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO INTERNACIONAL HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s64835_dark_360w_270h.png" group-title="Entretenimiento",TELEMUNDO INTERNACIONAL HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=85&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-id="TLNovelas.mx" tvg-name="TL NOVELAS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s37232_dark_360w_270h.png" group-title="Entretenimiento",TL NOVELAS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=83&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="223" tvg-id="TNTSeries.mx" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s107366_dark_360w_270h.png" group-title="Entretenimiento",TNT SERIES
+http://roedor.xyz/SrRegio-Ag/tp.php?c=71&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="224" tvg-id="TruTV.mx" tvg-name="TRUTV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16496_dark_360w_270h.png" group-title="Entretenimiento",TRUTV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=79&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="225" tvg-id="TruTV.mx" tvg-name="TRUTV HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16496_dark_360w_270h.png" group-title="Entretenimiento",TRUTV HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=215&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="226" tvg-id="TVCTelevisionporCable.mx" tvg-name="TVC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16292_dark_360w_270h.png" group-title="Entretenimiento",TVC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2156&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="227" tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84425_dark_360w_270h.png" group-title="Entretenimiento",UNICABLE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1499&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="228" tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84425_dark_360w_270h.png" group-title="Entretenimiento",UNICABLE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=66&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="229" tvg-id="UniversalTV.mx" tvg-name="UNIVERSAL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16799_dark_360w_270h.png" group-title="Entretenimiento",UNIVERSAL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=57&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="230" tvg-id="UniversalTV.mx" tvg-name="UNIVERSAL HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16799_dark_360w_270h.png" group-title="Entretenimiento",UNIVERSAL HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=207&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="231" tvg-id="WarnerChannel.mx" tvg-name="WARNER" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16213_dark_360w_270h.png" group-title="Entretenimiento",WARNER
+http://roedor.xyz/SrRegio-Ag/tp.php?c=52&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-id="WarnerChannel.mx" tvg-name="WARNER HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16213_dark_360w_270h.png" group-title="Entretenimiento",WARNER HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=205&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="301" tvg-id="BabyFirstAmericasSpanish.mx" tvg-name="BABY FIRST" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s78831_dark_360w_270h.png" group-title="Infantil",BABY FIRST
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1984&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-id="BabyTv.mx" tvg-name="BABY TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s56036_dark_360w_270h.png" group-title="Infantil",BABY TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=116&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-id="Bitme.mx" tvg-name="BIT ME" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72801_dark_360w_270h.png" group-title="Infantil",BIT ME
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="304" tvg-id="Boomerang.mx" tvg-name="BOOMERANG" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s55719_dark_360w_270h.png" group-title="Infantil",BOOMERANG
+http://roedor.xyz/SrRegio-Ag/tp.php?c=115&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16141_dark_360w_270h.png" group-title="Infantil",CARTOON NETWORK
+http://roedor.xyz/SrRegio-Ag/tp.php?c=112&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="306" tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s45955_dark_360w_270h.png" group-title="Infantil",DISCOVERY KIDS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=109&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="307" tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s19234_dark_360w_270h.png" group-title="Infantil",DISNEY CHANNEL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=113&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="308" tvg-id="DisneyJunior.mx" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61311_dark_360w_270h.png" group-title="Infantil",DISNEY JR
+http://roedor.xyz/SrRegio-Ag/tp.php?c=118&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="309" tvg-id="DisneyXD.mx" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16563_dark_360w_270h.png" group-title="Infantil",DISNEY XD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=111&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-id="NatGeoKids.mx" tvg-name="NAT GEO KIDS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s105877_dark_360w_270h.png" group-title="Infantil",NAT GEO KIDS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2373&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="311" tvg-id="Nick.mx" tvg-name="NICK" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16707_dark_360w_270h.png" group-title="Infantil",NICK
+http://roedor.xyz/SrRegio-Ag/tp.php?c=110&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="312" tvg-id="Nick2.mx" tvg-name="NICK 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s77783_dark_360w_270h.png" group-title="Infantil",NICK 2
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="313" tvg-id="NickJr.mx" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60295_dark_360w_270h.png" group-title="Infantil",NICK JR
+http://roedor.xyz/SrRegio-Ag/tp.php?c=117&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-id="Nicktoons.mx" tvg-name="NICKTOONS SD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90209_dark_360w_270h.png" group-title="Infantil",NICKTOONS SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1708&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="315" tvg-id="Tooncast.mx" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s63109_dark_360w_270h.png" group-title="Infantil",TOONCAST
+http://roedor.xyz/SrRegio-Ag/tp.php?c=108&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="401" tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s107374_dark_360w_270h.png" group-title="Mundo y Cultura",ANIMAL PLANET
+http://roedor.xyz/SrRegio-Ag/tp.php?c=88&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="402" tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s96307_dark_360w_270h.png" group-title="Mundo y Cultura",DISCOVERY CHANNEL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=86&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="403" tvg-id="DiscoveryCivilization.mx" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s46609_dark_360w_270h.png" group-title="Mundo y Cultura",DISCOVERY CIVILIZATION
+http://roedor.xyz/SrRegio-Ag/tp.php?c=99&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="404" tvg-id="InvestigationDiscovery(English).mx" tvg-name="DISCOVERY ID" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65342_dark_360w_270h.png" group-title="Mundo y Cultura",DISCOVERY ID
+http://roedor.xyz/SrRegio-Ag/tp.php?c=68&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="405" tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s46610_dark_360w_270h.png" group-title="Mundo y Cultura",DISCOVERY SCIENCE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=98&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="406" tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65940_dark_360w_270h.png" group-title="Mundo y Cultura",DISCOVERY THEATER
+http://roedor.xyz/SrRegio-Ag/tp.php?c=95&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="407" tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s46608_dark_360w_270h.png" group-title="Mundo y Cultura",DISCOVERY TURBO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2379&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="408" tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66488_dark_360w_270h.png" group-title="Mundo y Cultura",DISCOVERY WORLD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=101&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="409" tvg-id="FoodNetwork.mx" tvg-name="FOOD NETWORK" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91919_dark_360w_270h.png" group-title="Mundo y Cultura",FOOD NETWORK
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2145&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="410" tvg-id="DiscoveryHomeandHealth.mx" tvg-name="H&H" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s97928_dark_360w_270h.png" group-title="Mundo y Cultura",H&H
+http://roedor.xyz/SrRegio-Ag/tp.php?c=96&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="411" tvg-id="History.mx" tvg-name="HISTORY" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s40137_dark_360w_270h.png" group-title="Mundo y Cultura",HISTORY
+http://roedor.xyz/SrRegio-Ag/tp.php?c=89&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="412" tvg-id="Lifetime.mx" tvg-name="LIFETIME" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90682_dark_360w_270h.png" group-title="Mundo y Cultura",LIFETIME
+http://roedor.xyz/SrRegio-Ag/tp.php?c=94&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="413" tvg-id="NationalGeographic.mx" tvg-name="NAT GEO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s88533_dark_360w_270h.png" group-title="Mundo y Cultura",NAT GEO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=91&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="414" tvg-id="NationalGeographicWild.mx" tvg-name="NAT GEO WILD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s67590_dark_360w_270h.png" group-title="Mundo y Cultura",NAT GEO WILD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=92&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="415" tvg-id="CVSHOPPING.mx" tvg-name="SHOPPING" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95679_dark_360w_270h.png" group-title="Mundo y Cultura",SHOPPING
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1943&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="416" tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74420_dark_360w_270h.png" group-title="Mundo y Cultura",TLC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=97&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="417" tvg-id="WorldofBusinessIdeas.mx" tvg-name="WOBI" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59014_dark_360w_270h.png" group-title="Mundo y Cultura",WOBI
+http://roedor.xyz/SrRegio-Ag/tp.php?c=102&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="501" tvg-id="Atrescine(Spanish).us" tvg-name="A3CINE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82808_dark_360w_270h.png" group-title="Cine",A3CINE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=3112&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="502" tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90852_dark_360w_270h.png" group-title="Cine",AMC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=131&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="503" tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90852_dark_360w_270h.png" group-title="Cine",AMC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=328&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="504" tvg-id="Cinema.mx" tvg-name="AZ CINEMA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95687_dark_360w_270h.png" group-title="Cine",AZ CINEMA
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1787&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="505" tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16435_dark_360w_270h.png" group-title="Cine",CINECANAL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=149&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="506" tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="Cine",CINEMAX
+http://roedor.xyz/SrRegio-Ag/tp.php?c=158&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="507" tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA +" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74016_dark_360w_270h.png" group-title="Cine",DE PELICULA +
+http://roedor.xyz/SrRegio-Ag/tp.php?c=121&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="508" tvg-id="DePelicula.mx" tvg-name="DE PELICULA SD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16288_dark_360w_270h.png" group-title="Cine",DE PELICULA SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=335&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="509" tvg-id="EuropaEuropa.mx" tvg-name="EUROPA CHANNEL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s27741_dark_360w_270h.png" group-title="Cine",EUROPA CHANNEL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=136&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="510" tvg-id="FilmandArts.mx" tvg-name="FILMS & ARTS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s88305_dark_360w_270h.png" group-title="Cine",FILMS & ARTS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=137&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="511" tvg-id="FoxPremiumAction(Este).mx" tvg-name="FOX ACTION" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s105161_dark_360w_270h.png" group-title="Cine",FOX ACTION
+http://roedor.xyz/SrRegio-Ag/tp.php?c=336&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="512" tvg-id="FoxPremiumCinema.mx" tvg-name="FOX CINEMA SD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s71662_dark_360w_270h.png" group-title="Cine",FOX CINEMA SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1729&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="513" tvg-id="FoxPremiumClassics.mx" tvg-name="FOX CLASSICS SD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s98730_dark_360w_270h.png" group-title="Cine",FOX CLASSICS SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1732&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="514" tvg-id="FoxPremiumMovies(Este).mx" tvg-name="FOX MOVIES" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s73049_dark_360w_270h.png" group-title="Cine",FOX MOVIES
+http://roedor.xyz/SrRegio-Ag/tp.php?c=146&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="515" tvg-id="FXM(English).mx" tvg-name="FXM" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14988_dark_360w_270h.png" group-title="Cine",FXM
+http://roedor.xyz/SrRegio-Ag/tp.php?c=138&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="516" tvg-id="FXM(English).mx" tvg-name="FXM SD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14988_dark_360w_270h.png" group-title="Cine",FXM SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=332&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="517" tvg-id="Golden.mx" tvg-name="GOLDEN" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16298_dark_360w_270h.png" group-title="Cine",GOLDEN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=123&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="518" tvg-id="GOLDENPLUS.mx" tvg-name="GOLDEN +" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s68317_dark_360w_270h.png" group-title="Cine",GOLDEN +
+http://roedor.xyz/SrRegio-Ag/tp.php?c=122&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="519" tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16423_dark_360w_270h.png" group-title="Cine",GOLDEN EDGE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=124&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="520" tvg-id="ISAT.mx" tvg-name="I SAT" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16497_dark_360w_270h.png" group-title="Cine",I SAT
+http://roedor.xyz/SrRegio-Ag/tp.php?c=135&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="521" tvg-id="MorbidoTV.mx" tvg-name="MORBIDO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s107890_dark_360w_270h.png" group-title="Cine",MORBIDO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=140&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="522" tvg-id="ParamountNetwork.mx" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s106214_dark_360w_270h.png" group-title="Cine",PARAMOUNT CHANNEL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1726&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="523" tvg-id="Space.mx" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66349_dark_360w_270h.png" group-title="Cine",SPACE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=129&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="524" tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s29017_dark_360w_270h.png" group-title="Cine",STUDIO UNIVERSAL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=132&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="525" tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s19246_dark_360w_270h.png" group-title="Cine",TCM
+http://roedor.xyz/SrRegio-Ag/tp.php?c=128&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="526" tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80807_dark_360w_270h.png" group-title="Cine",TNT
+http://roedor.xyz/SrRegio-Ag/tp.php?c=126&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="601" tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="ADRENALINA SPORTS HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s83166_dark_360w_270h.png" group-title="Deportes",ADRENALINA SPORTS HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1799&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="602" tvg-id="AyMSports.mx" tvg-name="AYM SPORTS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s34863_dark_360w_270h.png" group-title="Deportes",AYM SPORTS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=180&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="603" tvg-id="ClaroSports.mx" tvg-name="CLARO SPORTS HD" tvg-logo="" group-title="Deportes",CLARO SPORTS HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2564&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="604" tvg-id="ESPNLatin.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s96876_dark_360w_270h.png" group-title="Deportes",ESPN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=168&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="605" tvg-id="ESPNEXTRA.mx" tvg-name="ESPN +" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65930_dark_360w_270h.png" group-title="Deportes",ESPN +
+http://roedor.xyz/SrRegio-Ag/tp.php?c=167&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="606" tvg-id="ESPNDos.mx" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110964_dark_360w_270h.png" group-title="Deportes",ESPN 2
+http://roedor.xyz/SrRegio-Ag/tp.php?c=169&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="607" tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79042_dark_360w_270h.png" group-title="Deportes",ESPN 3
+http://roedor.xyz/SrRegio-Ag/tp.php?c=345&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="608" tvg-id="FoxSports(English).mx" tvg-name="FOX SPORTS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59307_dark_360w_270h.png" group-title="Deportes",FOX SPORTS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=170&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="609" tvg-id="FoxSports2(ConoNorte).mx" tvg-name="FOX SPORTS 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s71328_dark_360w_270h.png" group-title="Deportes",FOX SPORTS 2
+http://roedor.xyz/SrRegio-Ag/tp.php?c=172&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="610" tvg-id="FoxSports3(ConoSur).mx" tvg-name="FOX SPORTS 3" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79923_dark_360w_270h.png" group-title="Deportes",FOX SPORTS 3
+http://roedor.xyz/SrRegio-Ag/tp.php?c=178&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="611" tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="GOLF" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61033_dark_360w_270h.png" group-title="Deportes",GOLF
+http://roedor.xyz/SrRegio-Ag/tp.php?c=179&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="612" tvg-id="LatinAmericanSports.mx" tvg-name="LAS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s67632_dark_360w_270h.png" group-title="Deportes",LAS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2089&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="613" tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s38683_dark_360w_270h.png" group-title="Deportes",TUDN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=174&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="614" tvg-id="TUDN.mx" tvg-name="TUDN HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s38683_dark_360w_270h.png" group-title="Deportes",TUDN HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1049&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="615" tvg-id="TVCDeportes.mx" tvg-name="TVC DEPORTES" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s57580_dark_360w_270h.png" group-title="Deportes",TVC DEPORTES
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2157&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="701" tvg-id="AlJazeera(English).mx" tvg-name="AL JAAZERA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s102458_dark_360w_270h.png" group-title="Noticias",AL JAAZERA
+http://roedor.xyz/SrRegio-Ag/tp.php?c=192&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="702" tvg-id="BBCWorldNews(English).mx" tvg-name="BBC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s36844_dark_360w_270h.png" group-title="Noticias",BBC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=191&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="703" tvg-id="Bloomberg.mx" tvg-name="BLOOMBERG" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87311_dark_360w_270h.png" group-title="Noticias",BLOOMBERG
+http://roedor.xyz/SrRegio-Ag/tp.php?c=190&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="704" tvg-id="CNN(English).mx" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58646_dark_360w_270h.png" group-title="Noticias",CNN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=185&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="705" tvg-id="CNNEnEspanol.mx" tvg-name="CNN ESPAÑOL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s27773_dark_360w_270h.png" group-title="Noticias",CNN ESPAÑOL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=187&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="706" tvg-id="CNN(English).mx" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58646_dark_360w_270h.png" group-title="Noticias",CNN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=186&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="707" tvg-id="FoxNewsChannel.mx" tvg-name="FOX NEWS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110959_dark_360w_270h.png" group-title="Noticias",FOX NEWS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=188&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="708" tvg-id="France24(French).mx" tvg-name="FRANCE 24" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58685_dark_360w_270h.png" group-title="Noticias",FRANCE 24
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2402&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="709" tvg-id="HLN.mx" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s113876_dark_360w_270h.png" group-title="Noticias",HLN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=197&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="710" tvg-id="JusticiaTV.mx" tvg-name="JUSTICIA TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s50577_dark_360w_270h.png" group-title="Noticias",JUSTICIA TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=196&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="711" tvg-id="MilenioTV.mx" tvg-name="MILENIO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61719_dark_360w_270h.png" group-title="Noticias",MILENIO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1252&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="712" tvg-id="MilenioTV.mx" tvg-name="MILENIO HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61719_dark_360w_270h.png" group-title="Noticias",MILENIO HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1250&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="713" tvg-id="NTN24NuestraTeleNoticias24.mx" tvg-name="NTN 24" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61988_dark_360w_270h.png" group-title="Noticias",NTN 24
+http://roedor.xyz/SrRegio-Ag/tp.php?c=194&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="714" tvg-id="RTinSpanish.mx" tvg-name="RT" tvg-logo="" group-title="Noticias",RT
+http://roedor.xyz/SrRegio-Ag/tp.php?c=999&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="801" tvg-id="Atreseries.mx" tvg-name="A3SERIES" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90917_dark_360w_270h.png" group-title="Internacionales",A3SERIES
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2113&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="802" tvg-id="Antena3.mx" tvg-name="ANTENA 3" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90309_dark_360w_270h.png" group-title="Internacionales",ANTENA 3
+http://roedor.xyz/SrRegio-Ag/tp.php?c=199&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="803" tvg-id="CuriosityStream(English).mx" tvg-name="CURIOSITY STREAM" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110951_dark_360w_270h.png" group-title="Internacionales",CURIOSITY STREAM
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2594&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="804" tvg-id="DW(English).mx" tvg-name="DW" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79318_dark_360w_270h.png" group-title="Internacionales",DW
+http://roedor.xyz/SrRegio-Ag/tp.php?c=203&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="805" tvg-id="FUELTV(English).dk" tvg-name="FUEL TV HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s67628_dark_360w_270h.png" group-title="Internacionales",FUEL TV HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2587&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="806" tvg-id="StarTVE.mx" tvg-name="STAR TVE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s106724_dark_360w_270h.png" group-title="Internacionales",STAR TVE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2375&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="807" tvg-id="SundanceTV.us" tvg-name="SUNDANCE TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16108_dark_360w_270h.png" group-title="Internacionales",SUNDANCE TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=69&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="808" tvg-id="TVEAmericaTelevisionEspanola.mx" tvg-name="TVE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16217_dark_360w_270h.png" group-title="Internacionales",TVE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=198&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="901" tvg-id="Clic.mx" tvg-name="AZ CLIC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s92197_dark_360w_270h.png" group-title="Música",AZ CLIC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=223&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="902" tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18101_dark_360w_270h.png" group-title="Música",BANDAMAX
+http://roedor.xyz/SrRegio-Ag/tp.php?c=221&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="903" tvg-id="HavocTV(English).mx" tvg-name="HAVOC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s101991_dark_360w_270h.png" group-title="Música",HAVOC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2148&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="904" tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12712_dark_360w_270h.png" group-title="Música",MTV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=212&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="905" tvg-id="MTVHits(English).mx" tvg-name="MTV HITS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s67787_dark_360w_270h.png" group-title="Música",MTV HITS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=213&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="906" tvg-id="MTVLive(English).mx" tvg-name="MTV LIVE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66419_dark_360w_270h.png" group-title="Música",MTV LIVE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=211&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="907" tvg-id="TeleHitPlus.mx" tvg-name="TELEHIT +" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s73070_dark_360w_270h.png" group-title="Música",TELEHIT +
+http://roedor.xyz/SrRegio-Ag/tp.php?c=220&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="908" tvg-id="TelehitUrbano.mx" tvg-name="TELEHIT URBANO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s15210_dark_360w_270h.png" group-title="Música",TELEHIT URBANO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=218&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="909" tvg-id="VH1Classic.mx" tvg-name="VH1 CLASSIC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90325_dark_360w_270h.png" group-title="Música",VH1 CLASSIC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=214&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="910" tvg-id="VH1.mx" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s42567_dark_360w_270h.png" group-title="Música",VH1
+http://roedor.xyz/SrRegio-Ag/tp.php?c=217&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-chno="911" tvg-id="VH1.mx" tvg-name="VH1 HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s42567_dark_360w_270h.png" group-title="Música",VH1 HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=334&p=3&k=srregio&f=.m3u8
